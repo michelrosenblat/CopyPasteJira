@@ -1,0 +1,11 @@
+D:\_DESENV\CopyPasteJira\CopyPasteJira\intalador\Instalador do CopyPasteJira\bin\Debug\Instalador do CopyPasteJira.vsix
+D:\_DESENV\CopyPasteJira\CopyPasteJira\intalador\Instalador do CopyPasteJira\bin\Debug\extension.vsixmanifest
+D:\_DESENV\CopyPasteJira\CopyPasteJira\intalador\Instalador do CopyPasteJira\obj\Debug\Instalador do CopyPasteJira.csprojAssemblyReference.cache
+D:\_DESENV\CopyPasteJira\CopyPasteJira\intalador\Instalador do CopyPasteJira\obj\Debug\_EmptyResource.resources
+D:\_DESENV\CopyPasteJira\CopyPasteJira\intalador\Instalador do CopyPasteJira\obj\Debug\Instalador do CopyPasteJira.csproj.GenerateResource.cache
+D:\_DESENV\CopyPasteJira\CopyPasteJira\intalador\Instalador do CopyPasteJira\obj\Debug\Instalador do CopyPasteJira.csproj.CoreCompileInputs.cache
+D:\_DESENV\CopyPasteJira\CopyPasteJira\intalador\Instalador do CopyPasteJira\obj\Debug\Instalador do CopyPasteJira.dll
+D:\_DESENV\CopyPasteJira\CopyPasteJira\intalador\Instalador do CopyPasteJira\obj\Debug\Instalador do CopyPasteJira.pdb
+D:\_DESENV\CopyPasteJira\CopyPasteJira\intalador\Instalador do CopyPasteJira\obj\Debug\extension.vsixmanifest
+D:\_DESENV\CopyPasteJira\CopyPasteJira\intalador\Instalador do CopyPasteJira\obj\Debug\files.json
+D:\_DESENV\CopyPasteJira\CopyPasteJira\intalador\Instalador do CopyPasteJira\obj\Debug\createTemplateManifests.cache

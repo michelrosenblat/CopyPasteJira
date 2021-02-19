@@ -1,0 +1,9 @@
+D:\_DESENV\CopyPasteJira\CopyPasteJira\CopyPasteJira\bin\Debug\CopyPasteJira.exe.config
+D:\_DESENV\CopyPasteJira\CopyPasteJira\CopyPasteJira\bin\Debug\CopyPasteJira.exe
+D:\_DESENV\CopyPasteJira\CopyPasteJira\CopyPasteJira\bin\Debug\CopyPasteJira.pdb
+D:\_DESENV\CopyPasteJira\CopyPasteJira\CopyPasteJira\obj\Debug\CopyPasteJira.FormMain.resources
+D:\_DESENV\CopyPasteJira\CopyPasteJira\CopyPasteJira\obj\Debug\CopyPasteJira.Properties.Resources.resources
+D:\_DESENV\CopyPasteJira\CopyPasteJira\CopyPasteJira\obj\Debug\CopyPasteJira.csproj.GenerateResource.cache
+D:\_DESENV\CopyPasteJira\CopyPasteJira\CopyPasteJira\obj\Debug\CopyPasteJira.csproj.CoreCompileInputs.cache
+D:\_DESENV\CopyPasteJira\CopyPasteJira\CopyPasteJira\obj\Debug\CopyPasteJira.exe
+D:\_DESENV\CopyPasteJira\CopyPasteJira\CopyPasteJira\obj\Debug\CopyPasteJira.pdb
